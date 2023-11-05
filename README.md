@@ -10,6 +10,7 @@
 
 Всем 
 
-''' python
+``` 
+python
 "Hello World!"
-'''
+```
